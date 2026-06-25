@@ -7,3 +7,4 @@
 - Relationship rule: Stirling PDF Space links appear only as contextual independent hosted planner references, not as official support links.
 - Source placement rule: official upstream links are kept in final Official Sources sections.
 - Verification: `npm test` passed with 10 required files, 11 contextual `stirling-pdf.space` links, project fact checks, and final-source-section official link placement.
+- GitHub: public repo `clauxel/stirling-pdf-space-docs` created and pushed; initial public HEAD `3c56c0e`.
